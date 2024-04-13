@@ -1,0 +1,144 @@
+C:\Users\ryoci\PycharmProjects\CSC507_CT4_Yocius\venv\Scripts\python.exe C:\Users\ryoci\PycharmProjects\CSC507_CT4_Yocius\main.py 
+Successfully allocatedOBJ0 size: 1 to memory block 0
+Successfully allocatedOBJ1 size: 1 to memory block 0
+Failed to allocateOBJ2 size: 7 to memory in memory block 0
+Successfully allocatedOBJ2 size: 7 to memory block 1
+Failed to allocateOBJ3 size: 8 to memory in memory block 0
+Failed to allocateOBJ3 size: 8 to memory in memory block 1
+Successfully allocatedOBJ3 size: 8 to memory block 2
+Successfully allocatedOBJ4 size: 3 to memory block 0
+Successfully allocatedOBJ5 size: 2 to memory block 0
+Failed to allocateOBJ6 size: 2 to memory in memory block 0
+Failed to allocateOBJ6 size: 2 to memory in memory block 1
+Failed to allocateOBJ6 size: 2 to memory in memory block 2
+Successfully allocatedOBJ6 size: 2 to memory block 3
+Failed to allocateOBJ7 size: 6 to memory in memory block 0
+Failed to allocateOBJ7 size: 6 to memory in memory block 1
+Failed to allocateOBJ7 size: 6 to memory in memory block 2
+Successfully allocatedOBJ7 size: 6 to memory block 3
+Failed to allocateOBJ8 size: 2 to memory in memory block 0
+Failed to allocateOBJ8 size: 2 to memory in memory block 1
+Failed to allocateOBJ8 size: 2 to memory in memory block 2
+Failed to allocateOBJ8 size: 2 to memory in memory block 3
+Successfully allocatedOBJ8 size: 2 to memory block 4
+Successfully allocatedOBJ9 size: 1 to memory block 0
+Failed to allocateOBJ10 size: 8 to memory in memory block 0
+Failed to allocateOBJ10 size: 8 to memory in memory block 1
+Failed to allocateOBJ10 size: 8 to memory in memory block 2
+Failed to allocateOBJ10 size: 8 to memory in memory block 3
+Failed to allocateOBJ10 size: 8 to memory in memory block 4
+Successfully allocatedOBJ10 size: 8 to memory block 5
+Failed to allocateOBJ11 size: 1 to memory in memory block 0
+Successfully allocatedOBJ11 size: 1 to memory block 1
+Failed to allocateOBJ12 size: 2 to memory in memory block 0
+Failed to allocateOBJ12 size: 2 to memory in memory block 1
+Failed to allocateOBJ12 size: 2 to memory in memory block 2
+Failed to allocateOBJ12 size: 2 to memory in memory block 3
+Successfully allocatedOBJ12 size: 2 to memory block 4
+Failed to allocateOBJ13 size: 1 to memory in memory block 0
+Failed to allocateOBJ13 size: 1 to memory in memory block 1
+Failed to allocateOBJ13 size: 1 to memory in memory block 2
+Failed to allocateOBJ13 size: 1 to memory in memory block 3
+Successfully allocatedOBJ13 size: 1 to memory block 4
+Failed to allocateOBJ14 size: 5 to memory in memory block 0
+Failed to allocateOBJ14 size: 5 to memory in memory block 1
+Failed to allocateOBJ14 size: 5 to memory in memory block 2
+Failed to allocateOBJ14 size: 5 to memory in memory block 3
+Failed to allocateOBJ14 size: 5 to memory in memory block 4
+Failed to allocateOBJ14 size: 5 to memory in memory block 5
+Successfully allocatedOBJ14 size: 5 to memory block 6
+First Fit Memory Allocation
+|								0								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ0	OBJ1	OBJ4	OBJ4	OBJ4	OBJ5	OBJ5	OBJ9	|
+|								1								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ2	OBJ2	OBJ2	OBJ2	OBJ2	OBJ2	OBJ2	OBJ11	|
+|								2								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ3	OBJ3	OBJ3	OBJ3	OBJ3	OBJ3	OBJ3	OBJ3	|
+|								3								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ6	OBJ6	OBJ7	OBJ7	OBJ7	OBJ7	OBJ7	OBJ7	|
+|								4								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ8	OBJ8	OBJ12	OBJ12	OBJ13	EMPTY	EMPTY	EMPTY	|
+|								5								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ10	OBJ10	OBJ10	OBJ10	OBJ10	OBJ10	OBJ10	OBJ10	|
+|								6								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ14	OBJ14	OBJ14	OBJ14	OBJ14	EMPTY	EMPTY	EMPTY	|
+|								7								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|EMPTY	EMPTY	EMPTY	EMPTY	EMPTY	EMPTY	EMPTY	EMPTY	|
+-----------------------------------------------------------------
+
+
+Successfully allocatedOBJ0 size: 1 to memory block 0
+Successfully allocatedOBJ1 size: 1 to memory block 0
+Failed to allocateOBJ2 size: 7 to memory in memory block 0
+Successfully allocatedOBJ2 size: 7 to memory block 1
+Successfully allocatedOBJ3 size: 8 to memory block 2
+Successfully allocatedOBJ4 size: 3 to memory block 0
+Successfully allocatedOBJ5 size: 2 to memory block 0
+Failed to allocateOBJ6 size: 2 to memory in memory block 0
+Failed to allocateOBJ6 size: 2 to memory in memory block 1
+Failed to allocateOBJ6 size: 2 to memory in memory block 2
+Successfully allocatedOBJ6 size: 2 to memory block 3
+Successfully allocatedOBJ7 size: 6 to memory block 3
+Failed to allocateOBJ8 size: 2 to memory in memory block 0
+Failed to allocateOBJ8 size: 2 to memory in memory block 1
+Failed to allocateOBJ8 size: 2 to memory in memory block 2
+Failed to allocateOBJ8 size: 2 to memory in memory block 3
+Successfully allocatedOBJ8 size: 2 to memory block 4
+Successfully allocatedOBJ9 size: 1 to memory block 0
+Successfully allocatedOBJ10 size: 8 to memory block 5
+Successfully allocatedOBJ11 size: 1 to memory block 1
+Failed to allocateOBJ12 size: 2 to memory in memory block 0
+Failed to allocateOBJ12 size: 2 to memory in memory block 1
+Failed to allocateOBJ12 size: 2 to memory in memory block 2
+Failed to allocateOBJ12 size: 2 to memory in memory block 3
+Successfully allocatedOBJ12 size: 2 to memory block 4
+Failed to allocateOBJ13 size: 1 to memory in memory block 0
+Failed to allocateOBJ13 size: 1 to memory in memory block 1
+Failed to allocateOBJ13 size: 1 to memory in memory block 2
+Failed to allocateOBJ13 size: 1 to memory in memory block 3
+Successfully allocatedOBJ13 size: 1 to memory block 4
+Failed to allocateOBJ14 size: 5 to memory in memory block 0
+Failed to allocateOBJ14 size: 5 to memory in memory block 1
+Failed to allocateOBJ14 size: 5 to memory in memory block 2
+Failed to allocateOBJ14 size: 5 to memory in memory block 3
+Failed to allocateOBJ14 size: 5 to memory in memory block 4
+Failed to allocateOBJ14 size: 5 to memory in memory block 5
+Successfully allocatedOBJ14 size: 5 to memory block 6
+Best Fit Memory Allocation
+|								0								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ0	OBJ1	OBJ4	OBJ4	OBJ4	OBJ5	OBJ5	OBJ9	|
+|								1								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ2	OBJ2	OBJ2	OBJ2	OBJ2	OBJ2	OBJ2	OBJ11	|
+|								2								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ3	OBJ3	OBJ3	OBJ3	OBJ3	OBJ3	OBJ3	OBJ3	|
+|								3								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ6	OBJ6	OBJ7	OBJ7	OBJ7	OBJ7	OBJ7	OBJ7	|
+|								4								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ8	OBJ8	OBJ12	OBJ12	OBJ13	EMPTY	EMPTY	EMPTY	|
+|								5								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ10	OBJ10	OBJ10	OBJ10	OBJ10	OBJ10	OBJ10	OBJ10	|
+|								6								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|OBJ14	OBJ14	OBJ14	OBJ14	OBJ14	EMPTY	EMPTY	EMPTY	|
+|								7								|
+|0    	1    	2    	3    	4    	5    	6    	7    	|
+|EMPTY	EMPTY	EMPTY	EMPTY	EMPTY	EMPTY	EMPTY	EMPTY	|
+-----------------------------------------------------------------
+
+
+
+Process finished with exit code 0
